@@ -5,6 +5,17 @@ The model is a **Random Forest** classifier trained on the public *Covid Dataset
 
 ---
 
+## 🚀 Live Demo
+
+Try the app live:
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.png)](https://covid19-prediction-ml-h6r2tsg2zgg4t4u2h4pa5q.streamlit.app)
+
+**Direct link**: https://covid19-prediction-ml-h6r2tsg2zgg4t4u2h4pa5q.streamlit.app
+
+> Select symptoms, hit "Check", and get your prediction instantly! ⚡
+
+---
+
 ## Local setup
 
 ### 1. Clone the repo
