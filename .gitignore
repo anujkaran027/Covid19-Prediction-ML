@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sensitive
+.env
+*.env
