@@ -53,6 +53,8 @@ streamlit run app.py
 
 The folder **`notebooks/`** contains a **Google Colab** notebook:
 
+**File**: `notebooks/covid_19_project.ipynb`
+
 ### What the notebook does
 | Step | Description |
 |------|-------------|
@@ -63,7 +65,7 @@ The folder **`notebooks/`** contains a **Google Colab** notebook:
 | | • **KNeighborsClassifier** → **97.52 %** accuracy |
 | | • **RandomForestClassifier** → **98.44 %** accuracy (chosen for the final app) |
 
-> The notebook is fully executable in **Google Colab** – just open the link, upload `data/Covid Dataset.csv`, and run all cells.
+> The notebook is fully executable in **Google Colab** – just open the notebook in colab, upload `data/Covid Dataset.csv`, and run all cells.
 
 ---
 
